@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TangVanCanh-MindX/static/css/main.ba3bcd59.css",
+    "main.js": "/TangVanCanh-MindX/static/js/main.a2db3fcd.js",
+    "index.html": "/TangVanCanh-MindX/index.html",
+    "main.ba3bcd59.css.map": "/TangVanCanh-MindX/static/css/main.ba3bcd59.css.map",
+    "main.a2db3fcd.js.map": "/TangVanCanh-MindX/static/js/main.a2db3fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3bcd59.css",
+    "static/js/main.a2db3fcd.js"
+  ]
+}
